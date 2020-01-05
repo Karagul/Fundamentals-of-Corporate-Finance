@@ -1,1 +1,1 @@
-# finnotes
+# Fundamentals of Corporate Finance
